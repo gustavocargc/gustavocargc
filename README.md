@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/gustavocardoso-](www.linkedin.com/in/gustavocardoso-)
 
-- ⚡ Fun fact **I love playing football, and I'm the best midfielder in my neighborhood.**
+- ⚡ Fun fact **I love playing football ⚽, and I'm the best midfielder in my neighborhood.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
