@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavocargc&label=Profile%20views&color=0e75b6&style=flat" alt="gustavocargc" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavocargc" alt="gustavocargc" /></a> </p>
 
 - 🌱 I’m currently learning **tech skills to to be applied in solving business problems**
 
@@ -46,4 +45,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavocargc" alt="gustavocargc" /></a> </p>
 -->
