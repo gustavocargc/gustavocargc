@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavocargc" alt="gustavocargc" /></a> </p>
 
-- 🌱 I’m currently learning **tech skills to solve business problems**
+- 🌱 I’m currently learning **tech skills to to be applied in solving business problems**
 
 - 👨‍💻 All of my projects are available at [https://gustavocargc.github.io/portfolio_projetos/](https://gustavocargc.github.io/portfolio_projetos/)
 
