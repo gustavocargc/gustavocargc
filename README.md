@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kterra/kterra/raw/main/assets/header-github.gif" alt="Oi, eu sou a Gustavo">
+  <img src="https://github.com/gustavocargc/gustavocargc/tree/main/assets/ezgif.com-gif-maker.gif" alt="Oi, eu sou a Gustavo">
 </p>
 
 <!--
